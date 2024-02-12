@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=120&section=header"/>
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Luiz+Henrique+Da+Silva+de+Oliveira;I'm+20+years+old;I+am+from+Curitiba,+PR;I+Computer+Science+Student,+development+at+Policorp+Tecnologia;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Luiz+Henrique+Da+Silva+de+Oliveira;I'm+20+years+old;I+am+from+Curitiba,+PR;+Computer+Science+Student;+development+at+Policorp+Tecnologia;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 <div align="center">  
   <img width="25%" height="auto" src="https://avatars.githubusercontent.com/u/94794917?v=4" alt="Luiz Henrique da Silva de Oliveira" /> 
