@@ -42,7 +42,7 @@
 ![HTML](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=html5&labelColor=0D1117)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
 ![MySQL](https://img.shields.io/badge/-MySQL-0D1117?style=for-the-badge&logo=mysql&labelColor=0D1117)&nbsp;
-![MariaDB](https://img.shields.io/badge/-MariaDB-0D1117?style=for-the-badge&logo=mongodb&labelColor=0D1117)&nbsp;
+![MongoDB](https://img.shields.io/badge/-MariaDB-0D1117?style=for-the-badge&logo=mongodb&labelColor=0D1117)&nbsp;
 ![Proxmox](https://img.shields.io/badge/-Proxmox-0D1117?style=for-the-badge&logo=proxmox&labelColor=0D1117)&nbsp;
 ![Apache](https://img.shields.io/badge/-Apache-0D1117?style=for-the-badge&logo=apache&labelColor=0D1117)&nbsp;
 
